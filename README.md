@@ -2,30 +2,30 @@
 
 ## event-emitter
 An exmaple of an EventEmitter in js
-Refer https://github.com/RagaviManohar/examples/blob/master/event-emitter.js
+Refer https://github.com/RagaviManohar/javascript-examples/blob/master/event-emitter.js
 
 ## findCommonValuesInAnArray
 An exmaple of an findCommonValuesInAnArray in js
 sample example:
 Input - ['1, 3, 4, 7, 15', '1, 2, 4, 15, 21'] -> Output - [ '1, 4, 15' ]
 Input - ['1, 3, 9, 10, 17, 18”, “1, 4, 9, 10'] -> Output - ['1, 9, 10']
-Refer https://github.com/RagaviManohar/examples/blob/master/findCommonValuesInAnArray.js
+Refer https://github.com/RagaviManohar/javascript-examples/blob/master/findCommonValuesInAnArray.js
 
 ## lodash_chain
 An example to use _.chain
-Refer https://github.com/RagaviManohar/examples/blob/master/lodash_chain.js
+Refer https://github.com/RagaviManohar/javascript-examples/blob/master/lodash_chain.js
 
 ## mergeArray
 An exmaple of an merge two arrays in js
-Refer https://github.com/RagaviManohar/examples/blob/master/mergeArray.js
+Refer https://github.com/RagaviManohar/javascript-examples/blob/master/mergeArray.js
 
 ## promiseInMap
 Promise in a map
-Refer https://github.com/RagaviManohar/examples/blob/master/promiseInMap.js
+Refer https://github.com/RagaviManohar/javascript-examples/blob/master/promiseInMap.js
 
 ## reduce
 Reduce to return an array of objects from an array of arrays
-Refer 
+Refer Refer https://github.com/RagaviManohar/javascript-examples/blob/master/reduce.js
 
 sample input[
     [ 'todo', '1', 22 ],
