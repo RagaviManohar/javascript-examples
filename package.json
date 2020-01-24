@@ -1,0 +1,23 @@
+{
+  "name": "examples",
+  "version": "1.0.0",
+  "description": "#promiseInMap",
+  "main": "event-emitter.js",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://RagaviManohar:58dd823af0c43f28b2791e9ebc8ead9796134c50@github.com/RagaviManohar/examples.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RagaviManohar/examples/issues"
+  },
+  "homepage": "https://github.com/RagaviManohar/examples#readme"
+}
